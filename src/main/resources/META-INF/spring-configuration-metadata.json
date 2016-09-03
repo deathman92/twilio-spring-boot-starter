@@ -1,0 +1,25 @@
+{
+  "groups": [{
+    "name": "twilio",
+    "type": "com.github.deathman92.spring.boot.twilio.TwilioProperties",
+    "sourceType": "com.github.deathman92.spring.boot.twilio.TwilioProperties"
+  }],
+  "properties": [
+    {
+      "name": "twilio.accountSID",
+      "type": "java.lang.String",
+      "sourceType": "com.github.deathman92.spring.boot.twilio.TwilioProperties"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.github.deathman92.spring.boot.twilio.TwilioProperties"
+    },
+    {
+      "name": "twilio.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.github.deathman92.spring.boot.twilio.TwilioProperties"
+    }
+  ],
+  "hints": []
+}
